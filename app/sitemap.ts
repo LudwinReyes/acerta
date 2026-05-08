@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://acentraperu.com';
+  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'https://acertaperu.com';
 
   // Define your routes here
   const routes = [

@@ -34,8 +34,8 @@ export async function POST(request: Request) {
     });
 
     const mailOptions = {
-      from: `"Acerta Web" <${process.env.CONTACT_RECEIVER_EMAIL || 'contacto@acentraperu.com'}>`,
-      to: process.env.CONTACT_RECEIVER_EMAIL || 'contacto@acentraperu.com',
+      from: `"Acerta Web" <${process.env.CONTACT_RECEIVER_EMAIL || 'contacto@acertaperu.com'}>`,
+      to: process.env.CONTACT_RECEIVER_EMAIL || 'contacto@acertaperu.com',
       replyTo: email,
       subject: `Nueva solicitud de diagnóstico de ${nombre} - ${empresa || 'Empresa no especificada'}`,
       text: `
