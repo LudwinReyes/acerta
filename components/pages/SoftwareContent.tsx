@@ -14,7 +14,7 @@ const SOFTWARE_SERVICES = [
     description: "Interfaces optimizadas para SEO y conversión. Construimos sitios corporativos fluidos integrados con herramientas de marketing.",
     icon: Laptop,
     colSpan: "col-span-1",
-    image: "/images/software/Diseño y Desarrollo de Páginas Web.jpg"
+    image: "/img/acerta/software/web.png"
   },
   {
     id: "custom",
@@ -22,7 +22,7 @@ const SOFTWARE_SERVICES = [
     description: "Aplicaciones Web y Mobile diseñadas para cubrir necesidades específicas: Gestión de reservas, plataformas robustas, Delivery y control interno.",
     icon: Code2,
     colSpan: "col-span-1 lg:col-span-2",
-    image: "/images/software/Desarrollo de Software a Medida.jpg"
+    image: "/img/acerta/software/custom.png"
   },
   {
     id: "apis",
@@ -30,7 +30,7 @@ const SOFTWARE_SERVICES = [
     description: "Conectamos tu ecosistema digital. Integraciones robustas con ERPs convencionales, pasarelas de pago, SUNAT, RENIEC y plataformas externas.",
     icon: Share2,
     colSpan: "col-span-1",
-    image: "/images/software/Integración de APIs y Sistemas.jpg"
+    image: "/img/acerta/software/custom.png"
   },
   {
     id: "consulting",
@@ -38,7 +38,7 @@ const SOFTWARE_SERVICES = [
     description: "Trazamos el roadmap tecnológico de tu empresa. Diagnóstico de madurez digital, plan de acción y gestión ágil del cambio organizacional.",
     icon: LayoutDashboard,
     colSpan: "col-span-1",
-    image: "/images/software/Consultoría en Transformación Digital.jpg"
+    image: "/img/acerta/software/custom.png"
   },
   {
     id: "crm",
@@ -46,7 +46,7 @@ const SOFTWARE_SERVICES = [
     description: "Despliegue y configuración de ecosistemas comerciales líderes (HubSpot, Salesforce). Automatizamos procesos y aceleramos tu pipeline de ventas.",
     icon: MonitorSmartphone,
     colSpan: "col-span-1",
-    image: "/images/software/Implementación de CRM.jpg"
+    image: "/img/acerta/software/custom.png"
   },
   {
     id: "ai",
@@ -54,7 +54,7 @@ const SOFTWARE_SERVICES = [
     description: "Elevación de UX mediante IA. Asistentes virtuales generativos, autocompletado inteligente y la predicción exacta de intenciones del usuario.",
     icon: Cpu,
     colSpan: "col-span-1 lg:col-span-2",
-    image: "/images/software/UIs con IA Integrada.jpg"
+    image: "/img/acerta/software/ai.png"
   },
   {
     id: "ecommerce",
@@ -62,7 +62,7 @@ const SOFTWARE_SERVICES = [
     description: "Tiendas virtuales escalables y veloces. Pasarelas integradas, control de inventario y UX optimizada específicamente para altos ratios de conversión.",
     icon: ShoppingCart,
     colSpan: "col-span-1",
-    image: "/images/software/Desarrollo de E-commerce.jpg"
+    image: "/img/acerta/software/web.png"
   },
   {
     id: "data",
@@ -70,7 +70,7 @@ const SOFTWARE_SERVICES = [
     description: "Arquitecturas de alto volumen (Kafka, Spark) y Dashboards analíticos avanzados (Power BI, Looker) para decisiones milisegundo en tiempo real.",
     icon: Database,
     colSpan: "col-span-1 lg:col-span-3",
-    image: "/images/software/Soluciones de Big Data.jpg"
+    image: "/img/acerta/software/custom.png"
   }
 ];
 

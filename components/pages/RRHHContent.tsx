@@ -21,7 +21,7 @@ const BLOCKS_DATA = [
     title: "Gestión Mensual Integrada",
     description: "Administración integral de planillas y obligaciones laborales mensuales, garantizando exactitud milimétrica y cumplimiento normativo estricto.",
     icon: CalendarDays,
-    image: "/images/RRHH/Gestión Mensual Integrada.jpg",
+    image: "/img/acerta/rrhh/mensual.png",
     layout: "lg:col-span-12 flex-col md:flex-row",
     pills: [
       "Elaboración de planilla (D.L. N° 728)",
@@ -39,7 +39,7 @@ const BLOCKS_DATA = [
     title: "Semestrales y Anuales",
     description: "Proyección y ejecución matemática de beneficios al personal, protegiendo tanto el flujo de caja corporativo como los derechos laborales.",
     icon: Briefcase,
-    image: "/images/RRHH/Semestrales y Anuales.jpg",
+    image: "/img/acerta/rrhh/anual.png",
     layout: "lg:col-span-6 flex-col",
     pills: [
       "Depósitos CTS y Cartas a entidad",
@@ -56,7 +56,7 @@ const BLOCKS_DATA = [
     title: "Administrativo y Adicionales",
     description: "Prevención frente a contingencias a través de una sólida infraestructura documental e intermediación ante autoridades competentes.",
     icon: FileSignature,
-    image: "/images/RRHH/Administrativo y Adicionales.jpg",
+    image: "/img/acerta/rrhh/admin.png",
     layout: "lg:col-span-6 flex-col",
     pills: [
       "Gestión de Contratos",

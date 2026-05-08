@@ -65,7 +65,7 @@ export function NosotrosContent() {
           className="absolute inset-0 z-0 opacity-40 mix-blend-luminosity"
         >
           <Image
-            src="https://picsum.photos/1920/1080?random=81"
+            src="/img/acerta/nosotros/hero.png"
             alt="Corporate Architecture"
             fill
             className="object-cover"
@@ -152,7 +152,7 @@ export function NosotrosContent() {
               className="order-1 lg:order-2"
             >
               <ParallaxImage
-                src="/images/nosotros/Nuestra Filosofía Corporativa.jpg"
+                src="/img/acerta/nosotros/filosofia.png"
                 alt="Filosofía corporativa"
                 className="w-full aspect-[4/5] rounded-tl-[6rem] rounded-br-[6rem] rounded-tr-3xl rounded-bl-3xl shadow-2xl shadow-slate-200"
               />
@@ -169,7 +169,7 @@ export function NosotrosContent() {
               viewport={{ once: true, margin: "-100px" }}
             >
               <ParallaxImage
-                src="/images/nosotros/Metodología de Alto Impacto.jpg"
+                src="/img/acerta/nosotros/metodologia.png"
                 alt="Metodología Acerta"
                 offset={150}
                 className="w-full aspect-square rounded-[4rem] rounded-tr-none shadow-2xl shadow-secondary/20 border-8 border-white"
@@ -225,7 +225,7 @@ export function NosotrosContent() {
               <div className="group relative w-[80%] max-w-[450px] aspect-[4/5] rounded-[4rem] rounded-tl-none overflow-hidden hover:shadow-2xl hover:shadow-secondary/30 transition-shadow duration-700">
                 <div className="absolute inset-0 bg-secondary opacity-0 group-hover:opacity-10 transition-opacity duration-500 z-10 pointer-events-none mix-blend-multiply" />
                 <ParallaxImage
-                  src="/images/nosotros/Liderazgo y Visión Directiva.jpg"
+                  src="/img/acerta/nosotros/liderazgo.png"
                   alt="Victor Yactayo - Gerente General Acerta"
                   className="w-full h-full transform transition-transform duration-700 group-hover:scale-105"
                   offset={80}

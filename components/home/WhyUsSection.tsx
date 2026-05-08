@@ -64,7 +64,7 @@ export default function WhyUsSection() {
               className="order-1 lg:order-2 relative w-full aspect-square lg:aspect-[4/3] rounded-tl-[6rem] rounded-br-[6rem] rounded-tr-3xl rounded-bl-3xl overflow-hidden shadow-2xl shadow-primary/10 border-4 border-white"
             >
               <Image
-                src="/images/inicio/Outsourcing Integral y Dominio NIIF.jpeg"
+                src="/img/acerta/inicio/whyus-outsourcing.png"
                 alt="Outsourcing y finanzas"
                 fill
                 className="object-cover"
@@ -83,7 +83,7 @@ export default function WhyUsSection() {
               className="relative w-full aspect-[4/5] lg:aspect-square rounded-full overflow-hidden shadow-2xl shadow-secondary/10 border-8 border-white bg-slate-200"
             >
               <Image
-                src="/images/inicio/Software Evolutivo potenciado con IA.jpeg"
+                src="/img/acerta/software/ai.png"
                 alt="Software a medida IA"
                 fill
                 className="object-cover"
@@ -144,7 +144,7 @@ export default function WhyUsSection() {
               className="order-1 lg:order-2 relative w-full aspect-square lg:aspect-[4/3] rounded-tr-[6rem] rounded-bl-[6rem] rounded-tl-3xl rounded-br-3xl overflow-hidden shadow-2xl shadow-primary/10 border-4 border-white"
             >
               <Image
-                src="/images/inicio/Auditorías Preventivas y Big Data.jpeg"
+                src="/img/acerta/inicio/riesgos.png"
                 alt="Auditoria y Seguridad"
                 fill
                 className="object-cover"

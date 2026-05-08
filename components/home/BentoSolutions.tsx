@@ -74,7 +74,7 @@ export default function BentoSolutions() {
             <div className="relative z-10 p-6 md:p-8 md:pl-0 md:w-1/2 flex items-center justify-center w-full min-h-[250px] overflow-hidden">
                <div className="relative w-full h-full rounded-[2rem] overflow-hidden bg-slate-100">
                   <Image 
-                    src="/images/inicio/Contabilidad y Finanzas.jpeg" 
+                    src="/img/acerta/inicio/contabilidad.png" 
                     alt="Finanzas abstract"
                     fill
                     className="object-cover transform transition-transform duration-700 group-hover:scale-105"
@@ -101,7 +101,7 @@ export default function BentoSolutions() {
                </p>
                <div className="mt-8 relative w-full flex-grow rounded-[2rem] overflow-hidden min-h-[250px] bg-slate-100">
                   <Image 
-                    src="/images/inicio/Software a Medida.jpeg" 
+                    src="/img/acerta/inicio/software.png" 
                     alt="Code & UI Interface"
                     fill
                     className="object-cover transform transition-transform duration-700 group-hover:scale-105 object-center"
@@ -141,7 +141,7 @@ export default function BentoSolutions() {
             <div className="relative z-10 p-6 md:p-8 md:pr-0 md:w-1/2 flex items-center justify-center w-full min-h-[250px] overflow-hidden">
                <div className="relative w-full h-full rounded-[2rem] overflow-hidden bg-slate-100">
                   <Image 
-                    src="/images/inicio/RRHH y Nóminas.jpeg" 
+                    src="/img/acerta/inicio/rrhh.png" 
                     alt="RRHH abstract"
                     fill
                     className="object-cover transform transition-transform duration-700 group-hover:scale-105"

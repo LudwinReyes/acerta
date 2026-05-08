@@ -19,7 +19,7 @@ const slides = [
     id: "contabilidad",
     headline: "Optimiza y escala tu empresa con precisión financiera",
     description: "Servicios contables de élite diseñados para blindar la rentabilidad y potenciar el crecimiento sostenible de su visión corporativa.",
-    image: "/images/inicio/Contabilidad y Finanzas.jpeg",
+    image: "/img/acerta/inicio/contabilidad.png",
     primaryCta: { label: "Transformar Finanzas", href: "/contabilidad" },
     secondaryCta: { label: "Auditoría Gratuita", href: "/contacto" }
   },
@@ -27,7 +27,7 @@ const slides = [
     id: "rrhh",
     headline: "Gestión de nóminas y talento sin margen de error",
     description: "Expertise avanzado en Recursos Humanos, administración impecable de planillas y T-Registro para brindar la máxima tranquilidad institucional.",
-    image: "/images/inicio/RRHH y Nóminas.jpeg",
+    image: "/img/acerta/inicio/rrhh.png",
     primaryCta: { label: "Optimizar Planillas", href: "/rrhh" },
     secondaryCta: { label: "Auditoría Gratuita", href: "/contacto" }
   },
@@ -35,7 +35,7 @@ const slides = [
     id: "software",
     headline: "Automatización de élite con integraciones a medida",
     description: "Desarrollamos soluciones en software e Inteligencia Artificial que revolucionan operaciones, asegurando modernización tecnológica real.",
-    image: "/images/inicio/Software a Medida.jpeg",
+    image: "/img/acerta/inicio/software.png",
     primaryCta: { label: "Evolucionar Operación", href: "/software" },
     secondaryCta: { label: "Auditoría Gratuita", href: "/contacto" }
   }

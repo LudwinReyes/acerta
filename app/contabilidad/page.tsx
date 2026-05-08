@@ -13,49 +13,49 @@ const SERVICES_DATA = [
     id: "01",
     title: "Consultoría en contabilidad financiera y tributaria (NIIF).",
     description: "Aplicación rigurosa de las Normas Internacionales de Información Financiera (NIIF). Evaluamos el impacto de las transacciones y garantizamos la presentación razonable de sus estados para accionistas y reguladores.",
-    image: "/images/contabilidad/Consultoría en contabilidad financiera y tributaria (NIIF).jpg"
+    image: "/img/acerta/contabilidad/finanzas.png"
   },
   {
     id: "02",
     title: "Elaboración y análisis de estados financieros.",
     description: "Convertimos datos crudos en inteligencia de negocios. Presentamos reportes estructurales dinámicos que reflejan la verdadera salud financiera de su empresa con métricas precisas y accionables.",
-    image: "/images/contabilidad/Elaboración y análisis de estados financieros.jpg"
+    image: "/img/acerta/contabilidad/finanzas.png"
   },
   {
     id: "03",
     title: "Diagnóstico financiero independiente (NIA y NIIF).",
     description: "Auditorías de valoración y salud estructural siguiendo estándares NIA, identificando riesgos latentes, ineficiencias de capital y proponiendo rutas de consolidación patrimonial.",
-    image: "/images/contabilidad/Diagnóstico financiero independiente (NIA y NIIF).jpg"
+    image: "/img/acerta/inicio/riesgos.png"
   },
   {
     id: "04",
     title: "Auditorías internas y revisiones especiales.",
     description: "Evaluamos el diseño y la eficacia operativa de los controles internos para mitigar riesgos de fraude, asegurando la custodia y eficiencia de los procesos críticos.",
-    image: "/images/contabilidad/Auditorías internas y revisiones especiales.jpg"
+    image: "/img/acerta/inicio/riesgos.png"
   },
   {
     id: "05",
     title: "Diagnóstico y optimización de procesos contables.",
     description: "Reingeniería de flujos de trabajo financieros. Eliminamos redundancias, automatizamos tareas repetitivas y aceleramos los ciclos de cierre contable mensual.",
-    image: "/images/contabilidad/Diagnóstico y optimización de procesos contables.jpg"
+    image: "/img/acerta/inicio/contabilidad.png"
   },
   {
     id: "06",
     title: "Outsourcing contable y financiero.",
     description: "Delegue la totalidad de su back-office a nuestro equipo de élite. Asumimos la gestión integral, desde la teneduría de libros hasta el cumplimiento tributario inmaculado.",
-    image: "/images/contabilidad/Outsourcing contable y financiero.jpg"
+    image: "/img/acerta/inicio/contabilidad.png"
   },
   {
     id: "07",
     title: "Reestructuración empresarial y due diligence financiero.",
     description: "Acompañamiento especializado en procesos de fusión, adquisición o escisión. Validamos presupuestos, contingencias fiscales y proyecciones de caja para asegurar transacciones exitosas.",
-    image: "/images/contabilidad/Reestructuración empresarial y due diligence financiero.jpg"
+    image: "/img/acerta/inicio/contabilidad.png"
   },
   {
     id: "08",
     title: "Capacitación empresarial en finanzas.",
     description: "Programas in-house diseñados para empoderar a sus tomadores de decisiones. Elevamos la cultura financiera de su organización mediante entrenamiento inmersivo en finanzas corporativas.",
-    image: "/images/contabilidad/Capacitación empresarial en finanzas.jpg"
+    image: "/img/acerta/nosotros/liderazgo.png"
   }
 ];
 
